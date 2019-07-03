@@ -27,8 +27,11 @@ To run the tests, execute:
  ```
  
 ## Sample Input/Output 
+### Valid empty board
 ![alt text](public/resources/happyOutput_1.png)
+### Valid populated board
 ![alt text](public/resources/happyOutput_2.png) 
+###Invalid Input
 ![alt text](public/resources/sadOutput_1.png) 
  
  
