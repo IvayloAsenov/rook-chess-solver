@@ -31,7 +31,7 @@ To run the tests, execute:
 ![alt text](public/resources/happyOutput_1.png)
 ### Valid populated board
 ![alt text](public/resources/happyOutput_2.png) 
-###Invalid Input
+### Invalid Input
 ![alt text](public/resources/sadOutput_1.png) 
  
  
