@@ -1,4 +1,4 @@
-package exception;
+package com.iasenov.chesssolver.exception;
 
 public class InvalidBoardException extends RuntimeException {
     public InvalidBoardException() {
